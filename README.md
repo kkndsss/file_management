@@ -1,6 +1,6 @@
 
 # 🤖 Local LLM Chatbot (Tkinter)
-# naver-gui.py
+# naver_gui.py
 
 `llama-cpp-python`과 `Tkinter`를 활용하여 만든 **오프라인 로컬 LLM 챗봇**입니다. 인터넷 연결 없이 내 PC의 자원만으로 AI와 대화할 수 있습니다.
 
